@@ -1,0 +1,671 @@
+{
+    "frames": [
+        {
+            "filename": "down-idle__(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-idle__(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 50,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-idle__(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 1,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-idle__(4)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 50,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-idle__(5)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 99,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-idle__(6)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 99,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "die_(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 1,
+                "y": 99
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "die_(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 50,
+                "y": 99
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "die_(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 99,
+                "y": 99
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-run__(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 148,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-run__(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 148,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-run__(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 148,
+                "y": 99
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-run__(4)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 1,
+                "y": 148
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-run__(5)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 50,
+                "y": 148
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down-run__(6)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 99,
+                "y": 148
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down_swing_(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 148,
+                "y": 148
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down_swing_(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 197,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down_swing_(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 197,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "down_swing_(4)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 197,
+                "y": 99
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rt-idle-0",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 197,
+                "y": 148
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rt-idle-1",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 1,
+                "y": 197
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rt-idle-2",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 50,
+                "y": 197
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rt-idle-3",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 99,
+                "y": 197
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rt-idle-4",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 148,
+                "y": 197
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rt-idle-5",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 197,
+                "y": 197
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-run__(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 246,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-run__(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 246,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-run__(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 246,
+                "y": 99
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-run__(4)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 246,
+                "y": 148
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-run__(5)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 246,
+                "y": 197
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-run__(6)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 1,
+                "y": 246
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-swing_(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 50,
+                "y": 246
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-swing_(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 99,
+                "y": 246
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-swing_(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 148,
+                "y": 246
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "right-swing_(4)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 197,
+                "y": 246
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-idle_(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 246,
+                "y": 246
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-idle_(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 295,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-idle_(4)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 295,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-idle_(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 295,
+                "y": 99
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-idle_(5)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 295,
+                "y": 148
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-idle_(6)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 295,
+                "y": 197
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-run_(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 295,
+                "y": 246
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-run_(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 1,
+                "y": 295
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-run_(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 50,
+                "y": 295
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-run_(4)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 99,
+                "y": 295
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-run_(5)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 148,
+                "y": 295
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-run_(6)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 197,
+                "y": 295
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-swing_(1)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 246,
+                "y": 295
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-swing_(2)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 295,
+                "y": 295
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-swing_(3)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 344,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "up-swing_(4)",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 344,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
