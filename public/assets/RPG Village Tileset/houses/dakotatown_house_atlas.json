@@ -1,0 +1,2881 @@
+{
+    "frames": [
+        {
+            "filename": "dakotatown-building-o_(202)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(203)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(204)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(205)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(206)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(207)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(208)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(209)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(210)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(211)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(212)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(213)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(214)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(215)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(216)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(217)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(218)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(220)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(2)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(3)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(4)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(5)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(221)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(6)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(8)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(9)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(1)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(219)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(10)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(12)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(13)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(14)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(15)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(17)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(7)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(19)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(20)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(23)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(11)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(16)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(25)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(27)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(29)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(30)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(31)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(32)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(28)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(33)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(24)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(22)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(18)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(26)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(35)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(34)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(38)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(40)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(39)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(21)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(41)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(42)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(44)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(46)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(47)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(43)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(48)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(50)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(49)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(51)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(53)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(52)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(36)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(54)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(45)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(37)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(56)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(55)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(57)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(58)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(59)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(60)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(61)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(62)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(63)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(64)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(65)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(66)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(68)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(69)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(67)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(70)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(72)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(71)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(73)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(74)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(75)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(76)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(77)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(79)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(78)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(80)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(81)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(82)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(83)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(84)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(85)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(86)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(87)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(88)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(89)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(90)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(91)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(92)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(93)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(94)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(95)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(96)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(97)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(98)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(99)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(100)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(101)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(102)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(103)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(104)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(105)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(106)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(107)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(108)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(109)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(110)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(111)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(112)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(113)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(114)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(115)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(116)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(117)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(118)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(119)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(120)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(121)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(122)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(123)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(124)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(125)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(126)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(127)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(128)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(129)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(130)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(131)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(132)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(133)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(134)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(135)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(136)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(137)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(138)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(139)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(140)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(141)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(142)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(143)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(144)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(145)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(146)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(147)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(148)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(149)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(150)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(151)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(152)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(153)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(154)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(155)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(156)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(157)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(158)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(159)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(160)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(161)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(162)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(163)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(164)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(165)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(166)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(167)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(168)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(169)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(170)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(171)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(172)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(173)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(174)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 176,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(175)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 192,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(176)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 208,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(177)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(178)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(179)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(180)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(181)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(182)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(183)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(184)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 112
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(185)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(186)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(187)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(188)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 176
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(189)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(190)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 224,
+                "y": 208
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(191)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(192)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 16,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(193)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 32,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(194)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 48,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(195)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 64,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(196)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 80,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(197)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 96,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(198)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 112,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(199)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 128,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(200)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 144,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dakotatown-building-o_(201)",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 160,
+                "y": 224
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
